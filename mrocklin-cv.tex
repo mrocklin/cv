@@ -20,8 +20,8 @@
       \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
       \setlength{\leftmargin}{0.2in}}}{\end{list}}
 
-
 \begin{document}
+\newcommand{\link}[1]{\texttt{#1}}
 
 \name{Matthew D. Rocklin\vspace*{.1in}}
 
@@ -30,7 +30,6 @@
 \vspace{.05in}
 %=========INFO=========
 \begin{tabular}{@{}p{2in}p{4in}}
-Ryerson 258             & \\            
 Department of Computer Science   &         \\ 
 University of Chicago & {\it E-mail:}  mrocklin@cs.uchicago.edu\\       
 Chicago, IL  60615 USA  & {\it webpage:} http://people.cs.uchicago.edu/\verb+~+mrocklin/ \\     
@@ -39,7 +38,10 @@ Chicago, IL  60615 USA  & {\it webpage:} http://people.cs.uchicago.edu/\verb+~+m
 
 %========= RESEARCH =========
 \section{\sc Research Interests}
-Uncertainty quantification, numerical linear algebra, non-linear dynamics, complex networks 
+
+I am interested in uncertainty quantification, numerical linear algebra, complex networks and the symbolic representation of high performance computations. 
+
+Particular projects include accelerating statistical simulations using automatic derivatives and optimizing array-based programs for efficient allocation onto heterogeneous compute clusters. 
 
 %========= EDUCATION ==========
 \section{\sc Education}
@@ -48,20 +50,21 @@ Uncertainty quantification, numerical linear algebra, non-linear dynamics, compl
 \vspace*{-.1in}
 \begin{list1}
 \item[] Ph.D. Student, Computational Mathematics \hfill {\bf 2008-Present}
+\item[] M.S. Computer Science \hfill {\bf 2011}
 \end{list1}
 
 {\bf University of California, Berkeley}, Berkeley, CA\\
 %{\em Department of Mathematics and Statistics} 
 \vspace*{-.1in}
 \begin{list1}
-\item[] B.A., Physics, Mathematics, Astronomy, \hfill {\bf May 2007}
+\item[] B.A., Physics, Mathematics, and Astronomy \hfill {\bf May 2007}
 \end{list1}
 
 %========= HONORS ==========
 \section{\sc Honors and Awards} 
 
 McCormack Fellowship - University of Chicago\\
-Departemental Teaching Assistant Award 2009-2010\\
+Departmental Teaching Assistant Award 2009-2010\\
 Regents and Chancellors Scholarship - University of California, Berkeley\\
 
 %========= TEACHING ==========
@@ -79,20 +82,22 @@ Regents and Chancellors Scholarship - University of California, Berkeley\\
 \item[] {\em 337 - Scientific Visualization} \hfill {\bf Spring 2009}
 \item[] {\em 121-122 - CS with Applications}  \hfill {\bf Autumn-Winter 2009-10}
 \item[] {\em 121-122 - CS with Applications}  \hfill {\bf Autumn-Winter 2010-11}
+\item[] {\em 121-122 - CS with Applications}  \hfill {\bf Autumn-Winter 2011-12}
 \end{list1}
 
-I'm also an unabashed propagandist for the use of Python and it's associated open-source developments within the scientific community.\\
+I'm also an unabashed propagandist for the use of Python and its associated open-source developments within the scientific community.\\
 
 %========= PUBLICATIONS ==========
 \section{\sc Publications}
-E. Constantinescu,V. Zavala, M. Rocklin, S. Lee, and M. Anitescu, "A Computational Framework for Uncertainty Quantification and Stochastic Optimization in Unit Commitment with Wind Power Generation." IEEE Transactions on Power Systems, 2009
+E. Constantinescu,V. Zavala, M. Rocklin, S. Lee, and M. Anitescu, \textit{"A Computational Framework for Uncertainty Quantification and Stochastic Optimization in Unit Commitment with Wind Power Generation."} IEEE Transactions on Power Systems, 2009
 
-M. Rocklin, A. Pinar, "Computing an Aggregate Edge-Weight Function for Clustering Graphs with Multiple Edge Types." Algorithms and Models for the Web-Graph, 2010
+M. Rocklin, A. Pinar, \textit{"Computing an Aggregate Edge-Weight Function for Clustering Graphs with Multiple Edge Types."} Algorithms and Models for the Web-Graph, 2010
 
-M. Rocklin, A. Pinar, "Latent Clustering on Graphs with Multiple Edge Types
-" Algorithms and Models for the Web-Graph, 2011
+M. Rocklin, A. Pinar, \textit{"Latent Clustering on Graphs with Multiple Edge Types"} Algorithms and Models for the Web-Graph, 2011
 
-Patent 7620209: “Method and apparatus for dynamic space-time imaging system”
+Patent 7620209: \textit{“Method and apparatus for dynamic space-time imaging system”}
+
+M. Rocklin \textit{"Uncertainty Quantification and Sensitivity Analysis in Dynamical Systems"}, Masters Thesis, May, 2011
 
 %========= WORK EXPERIENCE ==========
 \section{\sc Professional Experience}
@@ -120,8 +125,31 @@ Numerical simulations and data analysis tools for design of Advanced Technology 
 %\vspace{-.3cm}
 {\bf Berkeley Engineering and Research/4D Imaging} - Berkeley, CA\\
 {\em Developer} \hfill {\bf 2003 - 2005}\\
-3d scanner based on structured light techniques. Began startup engineering company. Initial sole developer of a project which eventually grew to become an independent company
+3d scanner based on structured light techniques. Began startup engineering company. Initial sole developer of a project which eventually grew to become an independent and profitable company
 
+{\bf Open Source }\\
+Active contributor to the SymPy project, symbolic modeling in Python.
+
+%=========== CODE ================
+\section{\sc Code}
+
+I endeavor to produce high-level code (symbolics) to address low-level (numeric) efficiency concerns. A substantial fraction of my work is freely available at \link{http://www.github.com/mrocklin/}.
+
+\begin{center}
+\begin{tabular}{|l | c| }
+\hline
+Topic  & Experience  \\
+\hline
+\hline
+Languages & Python, C,  C++, C\#, Java, MatLab \\
+&  CUDA, IDL, LabVIEW, LaTeX \\ 
+\hline
+Version Control & Git, SVN \\
+\hline
+Prefered Development Stack & Linux, C, Python, Git, Latex\\
+\hline
+\end{tabular}
+\end{center}
 
 
 \end{resume}
