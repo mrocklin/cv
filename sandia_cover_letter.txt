@@ -1,0 +1,10 @@
+Hello, 
+
+I am a current PhD student at the University of Chicago in computer science looking to relocate while still making progress on my thesis. I would welcome a full time position that has some synergy with my topic and allows me to participate in the authoring of academic papers.
+
+I am interested in numerical methods for uncertainty quantification as well as high level/symbolic programming techniques to facilitate the writing of numerical code for heterogeneous (CPU/GPU) compute clusters. I also have some experience in complex networks. 
+
+I hope that our interests, needs and abilities overlap well.  
+
+Thank you for your consideration, 
+-Matthew Rocklin
