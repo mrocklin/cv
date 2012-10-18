@@ -1,5 +1,8 @@
 \documentclass[margin,line]{res}
 
+\usepackage[unicode=true,
+            colorlinks=true,
+            linkcolor=blue]{hyperref}
 
 \oddsidemargin -.5in
 \evensidemargin -.5in
@@ -32,16 +35,14 @@
 \begin{tabular}{@{}p{2in}p{4in}}
 Department of Computer Science   &         \\ 
 University of Chicago & {\it E-mail:}  mrocklin@cs.uchicago.edu\\       
-Chicago, IL  60615 USA  & {\it webpage:} http://people.cs.uchicago.edu/\verb+~+mrocklin/ \\     
+Chicago, IL  60615 USA  & {\it webpage:} \href{http://matthewrocklin.com}{http://matthewrocklin.com} \\
 \end{tabular}
 
 
 %========= RESEARCH =========
 \section{\sc Research Interests}
 
-I am interested in uncertainty quantification, numerical linear algebra, complex networks and the symbolic representation of high performance computations. 
-
-Particular projects include accelerating statistical simulations using automatic derivatives and optimizing array-based programs for efficient allocation onto heterogeneous compute clusters. 
+The goal of my research is to promote independent development of mathematical and algorithmic solutions in scientific computing. I am broadly interested in uncertainty quantification, numerical linear algebra, complex networks and the symbolic representation of high performance computations. 
 
 %========= EDUCATION ==========
 \section{\sc Education}
@@ -63,7 +64,7 @@ Particular projects include accelerating statistical simulations using automatic
 %========= HONORS ==========
 \section{\sc Honors and Awards} 
 
-McCormack Fellowship - University of Chicago\\
+McCormack Fellowship - University of Chicago, Physical Sciences Division\\
 Departmental Teaching Assistant Award 2009-2010\\
 Regents and Chancellors Scholarship - University of California, Berkeley\\
 
@@ -97,25 +98,7 @@ I am also a mentor for Google Code-in and Google Summer of Code under the SymPy 
 %========= PUBLICATIONS ==========
 \section{\sc Publications}
 
-{\bf Journal Papers}\\
-M. Rocklin, A. Pinar, \textit{"On Clustering on Graphs with Multiple Edge Types
-"} Internet Mathematics, 2012 (in press)
-
-E. Constantinescu,V. Zavala, M. Rocklin, S. Lee, and M. Anitescu, \textit{"A Computational Framework for Uncertainty Quantification and Stochastic Optimization in Unit Commitment with Wind Power Generation."} IEEE Transactions on Power Systems, 2009
-
-
-{\bf Conference Proceedings}\\
-M. Rocklin, A. Pinar, \textit{"Latent Clustering on Graphs with Multiple Edge Types"} Algorithms and Models for the Web-Graph, 2011
-
-M. Rocklin, A. Pinar, \textit{"Computing an Aggregate Edge-Weight Function for Clustering Graphs with Multiple Edge Types."} Algorithms and Models for the Web-Graph, 2010
-
-{\bf Other}\\
-M. Rocklin, A. Terrel, \textit{Symbolic Statistics using SymPy} Computations in
-Science and Engineering, 2012 (in press)
-
-M. Rocklin \textit{"Uncertainty Quantification and Sensitivity Analysis in Dynamical Systems"}, Masters Thesis, May, 2011
-
-Patent 7620209: \textit{“Method and apparatus for dynamic space-time imaging system”}
+\input{publications.tex}
 
 %========= WORK EXPERIENCE ==========
 \section{\sc Professional Experience}
@@ -172,7 +155,3 @@ Preferred Development Stack & Linux, C, Python, Git, Latex\\
 
 \end{resume}
 \end{document}
-
-
-
-
