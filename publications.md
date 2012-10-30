@@ -2,8 +2,8 @@
 
 -   M. Rocklin, *Static Scheduling of Array Operations on Heterogeneous 
     Architectures*
--   M. Rocklin, *Declarative Ordering policies with applications to 
-    asynchronous communication*
+-   M. Rocklin, *Declarative Ordering Policies with Applications to 
+    Asynchronous Communication*
 -   M. Rocklin, *Automated Mathematical Reasoning for Matrix Expressions 
     and LAPACK Code Generation*
 

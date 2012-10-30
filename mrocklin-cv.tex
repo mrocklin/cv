@@ -1,8 +1,12 @@
 \documentclass[margin,line]{res}
 
+\usepackage[usenames,dvipsnames]{xcolor}
 \usepackage[unicode=true,
             colorlinks=true,
             linkcolor=blue]{hyperref}
+\hypersetup{urlcolor=BlueViolet} % Does not apply color to href's
+\hypersetup{colorlinks,urlcolor=BlueViolet} % href's are correct, but navigation
+
 
 \oddsidemargin -.5in
 \evensidemargin -.5in
@@ -128,30 +132,11 @@ Numerical simulations and data analysis tools for design of Advanced Technology 
 {\em Developer} \hfill {\bf 2003 - 2005}\\
 3d scanner based on structured light techniques. Began startup engineering company. Initial sole developer of a project which eventually grew to become an independent and profitable company
 
-{\bf Open Source }\\
-Active contributor to the SymPy project, symbolic modeling in Python.
+%=========== Software ================
+\section{\sc Software}
 
-%=========== CODE ================
-\section{\sc Code}
+\input{software.tex}
 
-I endeavor to produce high-level code (symbolics) to address low-level (numeric) efficiency concerns. A substantial fraction of my work is available at \link{http://www.github.com/mrocklin/}.
-
-\begin{center}
-\begin{tabular}{|l | c| }
-\hline
-Topic  & Experience  \\
-\hline
-\hline
-Languages & Python, C,  C++, C\#, Java, MatLab \\
-&  CUDA, IDL, LabVIEW, LaTeX \\
-&  SQL, Maude, Clojure \\
-\hline
-Version Control & Git, SVN \\
-\hline
-Preferred Development Stack & Linux, C, Python, Git, Latex\\
-\hline
-\end{tabular}
-\end{center}
 
 \end{resume}
 \end{document}
