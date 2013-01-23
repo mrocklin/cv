@@ -1,13 +1,15 @@
-#### Working titles
+**Working titles**: 
+My thesis contains substantial completed yet unpublished work.  It can be
+separated into the following three papers.
 
--   M. Rocklin, *Static Scheduling of Array Operations on Heterogeneous 
+-   M. Rocklin, *Static Scheduling of Array Operations onto Heterogeneous 
     Architectures*
+-   M. Rocklin, *Automated Reasoning on Matrix Expressions for LAPACK Code
+    Generation*
 -   M. Rocklin, *Declarative Ordering Policies with Applications to 
     Asynchronous Communication*
--   M. Rocklin, *Automated Mathematical Reasoning for Matrix Expressions 
-    and LAPACK Code Generation*
 
-#### Journal Papers
+**Journal Papers**
 
 -   M. Rocklin, A. Pinar [*On Clustering on Graphs with Multiple Edge
     Types*](http://arxiv.org/pdf/1109.1605), Internet Mathematics, 2012
@@ -17,7 +19,7 @@
     Generation.*](http://www.mcs.anl.gov/uploads/cels/papers/P1681.pdf)
     IEEE Transactions on Power Systems, 2010.
 
-#### Conference Proceedings
+**Conference Proceedings**
 
 -   M. Rocklin, [*Uncertainty Modeling with SymPy Stats*](
     http://people.cs.uchicago.edu/~mrocklin/tempspace/
@@ -30,14 +32,14 @@
     Edge Types*](https://csmr.ca.sandia.gov/~apinar/papers/waw11.pdf)
     Algorithms and Models for the Web-Graph, 2011
 
-#### Magazine Style
+**Magazine Style**
 
 -   M. Rocklin, A. Terrel: [Symbolic Statistics with
     SymPy](http://origin-www.computer.org/csdl/mags/cs/2012/03/mcs2012030088-abs.html),
     Computing in Science and Engineering, vol. 14, no. 3, pp. 88-93,
     May-June 2012
 
-#### Other
+**Other**
 
 -   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in
     Dynamical

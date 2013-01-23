@@ -6,3 +6,6 @@ software.tex : software.md
 
 pdf : publications.tex software.tex
 	pdflatex mrocklin-cv.tex
+
+publish: pdf
+	scp mrocklin-cv.pdf ankaa.cs.uchicago.edu:html/
