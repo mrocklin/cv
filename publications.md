@@ -1,14 +1,3 @@
-**Working titles**: 
-My thesis contains substantial completed yet unpublished work.  It can be
-separated into the following three papers.
-
--   M. Rocklin, *Static Scheduling of Array Operations onto Heterogeneous 
-    Architectures*
--   M. Rocklin, *Automated Reasoning on Matrix Expressions for LAPACK Code
-    Generation*
--   M. Rocklin, *Declarative Ordering Policies with Applications to 
-    Asynchronous Communication*
-
 **Journal Papers**
 
 -   M. Rocklin, A. Pinar [*On Clustering on Graphs with Multiple Edge
@@ -32,6 +21,15 @@ separated into the following three papers.
     Edge Types*](https://csmr.ca.sandia.gov/~apinar/papers/waw11.pdf)
     Algorithms and Models for the Web-Graph, 2011
 
+**Theses**
+
+-   M. Rocklin, [Modular Generation of Scientific
+    Software](http://people.cs.uchicago.edu/~mrocklin/storage/dissertation.pdf),
+    2013, a PhD dissertation.
+-   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in
+    Dynamical Systems](http://people.cs.uchicago.edu/~mrocklin/masters.html),
+    2011, a masters thesis
+
 **Magazine Style**
 
 -   M. Rocklin, A. Terrel: [Symbolic Statistics with
@@ -41,10 +39,6 @@ separated into the following three papers.
 
 **Other**
 
--   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in
-    Dynamical
-    Systems](http://people.cs.uchicago.edu/~mrocklin/masters.html),
-    2011, a masters thesis
 -   M. Rocklin, A Pinar, [*Spectral Generation and Latent Community
     Structure of Multiweighted
     Networks*](http://people.cs.uchicago.edu/~mrocklin/papers/winPaper.pdf),
