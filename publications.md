@@ -1,3 +1,13 @@
+
+**Theses**
+
+-   M. Rocklin, [Modular Generation of Scientific
+    Software](http://people.cs.uchicago.edu/~mrocklin/storage/dissertation.pdf),
+    2013, a PhD dissertation.
+-   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in
+    Dynamical Systems](http://people.cs.uchicago.edu/~mrocklin/masters.html),
+    2011, a masters thesis
+
 **Journal Papers**
 
 -   M. Rocklin, A. Pinar [*On Clustering on Graphs with Multiple Edge
@@ -21,15 +31,6 @@
     Edge Types*](https://csmr.ca.sandia.gov/~apinar/papers/waw11.pdf)
     Algorithms and Models for the Web-Graph, 2011
 
-**Theses**
-
--   M. Rocklin, [Modular Generation of Scientific
-    Software](http://people.cs.uchicago.edu/~mrocklin/storage/dissertation.pdf),
-    2013, a PhD dissertation.
--   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in
-    Dynamical Systems](http://people.cs.uchicago.edu/~mrocklin/masters.html),
-    2011, a masters thesis
-
 **Magazine Style**
 
 -   M. Rocklin, A. Terrel: [Symbolic Statistics with
@@ -49,3 +50,4 @@
     2009
 -   US Patent 7620209: [*Method and apparatus for dynamic space-time
     imaging system*](http://www.google.com/patents/US20060082590)
+-   M. Rocklin, *Functional Data Analysis*, Tutorial at PyData 2013, NYC
