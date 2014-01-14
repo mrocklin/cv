@@ -31,15 +31,12 @@
     Edge Types*](https://csmr.ca.sandia.gov/~apinar/papers/waw11.pdf)
     Algorithms and Models for the Web-Graph, 2011
 
-**Magazine Style**
+**Other**
 
 -   M. Rocklin, A. Terrel: [Symbolic Statistics with
     SymPy](http://origin-www.computer.org/csdl/mags/cs/2012/03/mcs2012030088-abs.html),
     Computing in Science and Engineering, vol. 14, no. 3, pp. 88-93,
     May-June 2012
-
-**Other**
-
 -   M. Rocklin, A Pinar, [*Spectral Generation and Latent Community
     Structure of Multiweighted
     Networks*](http://people.cs.uchicago.edu/~mrocklin/papers/winPaper.pdf),
