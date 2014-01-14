@@ -8,4 +8,4 @@ pdf : publications.tex software.tex
 	pdflatex mrocklin-cv.tex
 
 publish: pdf
-	scp mrocklin-cv.pdf ankaa.cs.uchicago.edu:html/
+	scp mrocklin-cv.pdf linux.cs.uchicago.edu:html/
