@@ -1,11 +1,13 @@
+Today I mostly publish on technical topics on my blog at
+[matthewrocklin.com/blog](https://matthewrocklin.com/blog).
+Previoulsy I engaged in traditional academic publishing.
+This page contains references to those works.
 
 **Theses**
 
--   M. Rocklin, [Modular Generation of Scientific
-    Software](http://people.cs.uchicago.edu/~mrocklin/storage/dissertation.pdf),
+-   M. Rocklin, [Modular Generation of Scientific Software](http://people.cs.uchicago.edu/~mrocklin/storage/dissertation.pdf),
     2013, a PhD dissertation.
--   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in
-    Dynamical Systems](http://people.cs.uchicago.edu/~mrocklin/masters.html),
+-   M. Rocklin, [Uncertainty Quantification and Sensitivity Analysis in Dynamical Systems](http://people.cs.uchicago.edu/~mrocklin/masters.html),
     2011, a masters thesis
 
 **Papers**

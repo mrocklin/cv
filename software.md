@@ -7,14 +7,12 @@ I am primarily known for my current work on Dask.
    scheduling*: Dask combines a high-speed computational task scheduler with
    algorithms for parallel arrays, dataframes, machine learning, etc..
 
-Historically I have been involved in the following projects:
+However in the maintenance of the Dask project I also end up acting as steward over a large part of the numerics ecosystem, dealing with libraries for communication, data access, and so on.
 
--   [SymPy](http://sympy.org) -- *Symbolic mathematics in Python*: Core
-    contributor.  Maintains linear algebra, statistics, and logical
-    assumptions.
--   [Theano](http://deeplearning.net/software/theano/) -- *Mathematical array
-    compiler*: Historically focused on concurrency, GPUs, scheduling,
-    and interactions with SymPy.
+Historically I have been involved in the following open source projects:
+
+-   [SymPy](http://sympy.org) -- *Symbolic mathematics in Python*:
+-   [Theano](http://deeplearning.net/software/theano/) -- *Mathematical array compiler for deep learning*:
 
 A more complete list of software is available at
 [github.com/mrocklin](https://github.com/mrocklin).
