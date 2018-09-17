@@ -1,6 +1,6 @@
-Today I mostly publish on technical topics on my blog at
+Today I mostly publish on technical topics online at
 [matthewrocklin.com/blog](https://matthewrocklin.com/blog).
-Previoulsy I engaged in traditional academic publishing.
+Previously I engaged in traditional academic publishing.
 This page contains references to those works.
 
 **Theses**
@@ -12,7 +12,7 @@ This page contains references to those works.
 
 **Papers**
 
--   Al-Rfou, Rami, et al[*Theano: A Python framework for fast computation of mathematical expressions*](https://arxiv.org/pdf/1605.02688.pdf), arXiv preprint arXiv:1605.02688 (2016).
+-   Al-Rfou, Rami, et al [*Theano: A Python framework for fast computation of mathematical expressions*](https://arxiv.org/pdf/1605.02688.pdf), arXiv preprint arXiv:1605.02688 (2016).
 -   A. Meurer et al [*SymPy: symbolic computing in Python*](https://peerj.com/articles/cs-103/), PeerJ Computer Science 3 (2017): e103.
 -   M. Rocklin, A. Pinar [*On Clustering on Graphs with Multiple Edge Types*](http://arxiv.org/pdf/1109.1605), Internet Mathematics, 2012
 -   E. Constantinescu,V. Zavala, M. Rocklin, S. Lee, and M. Anitescu,

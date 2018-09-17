@@ -1,18 +1,14 @@
 
-I contribute to and maintain several libraries within Python's numeric
-computing ecosystem, particularly around parallel and distributed computing.
-I am primarily known for my current work on Dask.
+I coordinate and maintain several libraries within Python's numeric computing
+ecosystem, particularly around efficient and scalable computing.
 
--  [Dask](https://dask.pydata.org) -- *Parallel computing with dynamic task
-   scheduling*: Dask combines a high-speed computational task scheduler with
-   algorithms for parallel arrays, dataframes, machine learning, etc..
+I am primarily known for my work on [Dask](https://dask.pydata.org), a library
+for scalable computing with dynamic task scheduling.  Dask combines a
+high-speed task scheduler with parallel algorithms to scale exisitng Python
+libraries like Numpy, Pandas, and Scikit-Learn.
 
-However in the maintenance of the Dask project I also end up acting as steward over a large part of the numerics ecosystem, dealing with libraries for communication, data access, and so on.
-
-Historically I have been involved in the following open source projects:
-
--   [SymPy](http://sympy.org) -- *Symbolic mathematics in Python*:
--   [Theano](http://deeplearning.net/software/theano/) -- *Mathematical array compiler for deep learning*:
-
-A more complete list of software is available at
+More generally though I work with other core developers within the ecosystem to
+promote the general health and efficiency.  I contribute to and maintain dozens
+of libraries.
+A more complete record of my contribution is available on GitHub:
 [github.com/mrocklin](https://github.com/mrocklin).
